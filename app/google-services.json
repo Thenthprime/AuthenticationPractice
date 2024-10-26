@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418278556794",
+    "project_id": "authenticationpractice-81500",
+    "storage_bucket": "authenticationpractice-81500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418278556794:android:7f6c2cbdd0ea81af7627c3",
+        "android_client_info": {
+          "package_name": "edu.psu.swen888.authenticationpractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6QdBJqlfl5QV7impRsnNZHnhcjyGrnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
